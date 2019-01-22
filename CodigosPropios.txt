@@ -1,0 +1,75 @@
+<div class="Tabla">
+    <div class="Columna">
+        <figure ><img src="http://dev-reciklar.pantheonsite.io/wp-content/uploads/2018/12/img-1-300x300.jpg" alt="" class="Img_Tabla"></figure>
+        <p style="width: 100%;"  class="parrafo1" >Asesoría&nbsp;y Consultoria en la temática&nbsp;Ambiental,&nbsp;con amplia experiencia en el&nbsp;sector privado como en el&nbsp; oficial.</p>
+    </div>
+
+
+
+    <div  class="Columna">
+        
+        <figure ><img src="http://dev-reciklar.pantheonsite.io/wp-content/uploads/2018/12/img-2.jpg" alt="" class="Img_Tabla" ></figure>
+       
+        <p style="width: 100%;"  class="parrafo1">Diseño y construcción de obras hidráulicas y de saneamiento, para cumplimiento de lo exigido por la Autoridad Ambiental.</p>
+    </div>
+
+
+
+    <div  class="Columna">
+        <figure ><img src="http://dev-reciklar.pantheonsite.io/wp-content/uploads/2018/12/img-3.jpg" class="Img_Tabla"></figure>
+
+        <p style="width: 100%;" class="parrafo1">Diseño y construcción de obras hidráulicas y de saneamiento, para cumplimiento de lo exigido por la Autoridad Ambiental.</p>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="Tabla2">
+    <div class="FilaDob">
+        <div class="ColumnaDob1">
+            <figure ><img src="http://dev-reciklar.pantheonsite.io/wp-content/uploads/2018/12/img-1.jpg" alt="" alt="" class="Img_Tabla"></figure>
+        </div>
+
+
+
+        <div class="ColumnaDob2">
+            <h2 class="Titulos2">Ingeniería Ambiental</h2>
+            
+            <ul class="parrafo2" style="width: 100%;"><li>Diseño de sistemas de tratamiento. </li><li>Análisis de aguas subterráneas y Residuales. </li><li>Estudios de Impacto ambiental y evaluación de vertimientos. </li><li>Planes de Gestión del Riesgo para manejo de vertimientos. </li><li>Educación Ambiental. </li></ul>
+
+        </div>
+    </div>
+
+    <div class="FilaDob">
+        <div class="ColumnaDob1">
+            <figure ><img src="http://dev-reciklar.pantheonsite.io/wp-content/uploads/2018/12/img-2.jpg" alt="" class="Img_Tabla"></figure>
+        </div>
+
+        <div class="ColumnaDob2">
+            <h2 class="Titulos2">Diseño y Construcción.</h2>
+
+            <ul class="parrafo2" style="width: 100%;"><li>Construcción de Obras hidráulicas para aguas superficiales. </li><li>Perforación de pozos de monitoreo.</li><li>Construcción de sistemas de tratamiento de agua potable y residual.</li><li>Perforación de aljibes y pozos para consumo de agua.</li><li>Construcción de sistemas de infiltración de vertimientos.&nbsp;</li></ul>
+        </div>
+    </div>
+
+
+    <div class="FilaDob">
+        <div class="ColumnaDob1">
+            <figure ><img src="http://dev-reciklar.pantheonsite.io/wp-content/uploads/2018/12/img-3.jpg" alt="" class="Img_Tabla"></figure>
+        </div>
+
+        <div class="ColumnaDob2">
+            <h2 class="Titulos2">Saneamiento y mantenimiento.</h2>
+
+            <ul class="parrafo2" style="width: 100%;"><li>Limpieza y mantenimiento de pozos sépticos y plantas de tratamiento de agua residual.</li><li>Limpieza de tanques de almacenamiento de aguas.</li><li>Limpieza y mantenimiento de pozos profundos y aljibe.</li></ul>
+        </div>
+    </div>
+</div>
